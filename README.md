@@ -30,10 +30,9 @@
 
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
-| **Student Registration Form** | Complete responsive registration form with custom input styling. | [Live Demo](https://hussainusmani258-spec.github.io/Student-Registration-Form/) |
 | **Signin / Login Page** | Modern split-screen authentication page design. | [Live Demo](https://hussainusmani258-spec.github.io/signin-login-page/) |
 | **Facebook Login Clone** | Clean Facebook login page layout built with Flexbox. | [Live Demo](https://hussainusmani258-spec.github.io/Facebook-login-page/) |
-| **Responsive Navbars & Cards** | Custom UI components with responsive layouts. | [Navbar Demo](https://hussainusmani258-spec.github.io/Navbar/) \| [Cards Demo](https://hussainusmani258-spec.github.io/Cards2/) |
+
 
 ---
 
