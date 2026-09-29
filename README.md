@@ -39,10 +39,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hussainusmani258-spec&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hussainusmani258-spec&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainusmani258-spec&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hussainusmani258-spec&theme=tokyonight" alt="Profile Details" width="48%" />
 </p>
----
 
 ### 📬 Connect with Me
 
