@@ -36,12 +36,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainusmani258-spec&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hussainusmani258-spec&theme=tokyonight" alt="Profile Details" width="48%" />
-</p>
+- 🚀 **Main Focus:** Responsive Web Design (HTML5 & CSS3)
+- 📂 **Public Repositories:** 7+ Projects
+- ⚡ **Current Status:** Learning JavaScript & Building UI Components Daily
 
 ### 📬 Connect with Me
 
