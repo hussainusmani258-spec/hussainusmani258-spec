@@ -26,15 +26,7 @@
 
 ---
 
-### 📌 Featured Projects
 
-| Project | Description | Live Demo |
-| :--- | :--- | :--- |
-| **Signin / Login Page** | Modern split-screen authentication page design. | [Live Demo](https://hussainusmani258-spec.github.io/signin-login-page/) |
-| **Facebook Login Clone** | Clean Facebook login page layout built with Flexbox. | [Live Demo](https://hussainusmani258-spec.github.io/Facebook-login-page/) |
-
-
----
 
 ### 📊 GitHub Overview
 
