@@ -74,9 +74,11 @@ const muzammil = {
 
 ### 6. 📊 GitHub Stats Overview
 
-- 📂 **Public Repositories:** 12+
-- ⚡ **Primary Focus:** Frontend Development & Responsive Design
-- 🎯 **Current Goal:** Full-Stack Web Development & Open Source Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainusmani258-spec&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Muzammil's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainusmani258-spec&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
