@@ -1,40 +1,30 @@
 <div align="center">
-  <h1>Hi there, I'm Muzammil Hussain 👋</h1>
-  <p><b>✨ Turning ideas into code & bugs into features.</b></p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=hussainusmani258-spec&style=flat-square&color=blue" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/hussainusmani258-spec?style=flat-square&logo=github&color=orange" alt="Followers"/>
-  </p>
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=Hi%20there,%20I'm%20Muzammil%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Turning+ideas+into+code;Bugs+into+features;Frontend+%26+Web+Developer;Learning%2C+Building+%26+Sharing" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Stats Badges -->
+<img src="https://img.shields.io/github/followers/hussainusmani258-spec?style=for-the-badge&logo=github&color=24292e" />
+<img src="https://komarev.com/ghpvc/?username=hussainusmani258-spec&style=for-the-badge&color=007acc" />
+
 </div>
+
+<br/>
 
 ---
 
-### 🚀 About Me
-- 🌐 Frontend Web Developer & Open Source Enthusiast.
-- 💻 Passionate about building responsive websites, clean user interfaces, and interactive web tools.
-- 🚀 Always learning, building, and sharing new concepts every day.
-
----
-
-### 🛠️ Tech Stack & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,nodejs,php,cpp,git,github,vscode,figma" />
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainusmani258-spec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainusmani258-spec&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🤝 Connect with Me
-- 💼 **GitHub:** [hussainusmani258-spec](https://github.com/hussainusmani258-spec)
-
-<div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-</div>
+### ⚡ Quick Intro
+```javascript
+const muzammil = {
+    role: "Frontend Developer & Tech Enthusiast",
+    code: ["HTML", "CSS", "JavaScript", "C++", "PHP"],
+    frameworks: ["Tailwind CSS", "Bootstrap", "Node.js"],
+    currentFocus: "Building modern responsive interfaces & web apps 🚀"
+};
